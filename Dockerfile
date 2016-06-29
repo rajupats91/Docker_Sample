@@ -1,4 +1,4 @@
-FROM ubuntu:14:04
+FROM ubuntu:14.04
 
 MAINTAINER Raju Patel "rajupats91@gmail.com"
 
